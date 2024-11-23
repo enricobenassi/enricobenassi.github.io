@@ -26,8 +26,8 @@ author:
   pronouns         : "(he/him)"  
   bio              : "Social Policy doctoral student"
   location         : "Earth"
-  employer         : "University of Oxford DSPI"
-  uri              : "https://www.spi.ox.ac.uk/"
+  employer         : "University of Oxford"
+  uri              : https://www.spi.ox.ac.uk/
   email            : "enrico.benassi@spi.ox.ac.uk" 
 
   # Academic websites

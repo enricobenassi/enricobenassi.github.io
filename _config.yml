@@ -21,7 +21,7 @@ repository               : "enricobenassi/enricobenassi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "profile.png"
+  avatar           : "Enrico_ProfilePicture.png"
   name             : "Enrico Benassi"
   pronouns         : "(he/him)"  
   bio              : "Social Policy doctoral student"

@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "Enrico_ProfilePicture.png"
   name             : "Enrico Benassi"
-  pronouns         : "(he/him)"  
+  pronouns         : # "(he/him)"  
   bio              : "Social Policy Doctoral Student"
   location         : "Earth"
   employer         : "University of Oxford"

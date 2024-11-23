@@ -24,10 +24,10 @@ author:
   avatar           : # "profile.png"
   name             : "Enrico Benassi"
   pronouns         : "(he/him)"  
-  bio              : "Social Policy PhD Student at Oxford University"
+  bio              : "Social Policy doctoral student"
   location         : "Earth"
-  employer         : "University of Oxford"
-  uri              : # URL
+  employer         : "University of Oxford DSPI"
+  uri              : "https://www.spi.ox.ac.uk/"
   email            : "enrico.benassi@spi.ox.ac.uk" 
 
   # Academic websites
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/enrico-benassi/
+  linkedin         : enrico benassi
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

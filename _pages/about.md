@@ -13,7 +13,7 @@ My research interests include:
 - Housing policy
 - Labor market institutions
 - Social inequality
-- Welfare state comparison
+- Comparative research
 - Political economy
  
 
